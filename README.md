@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="php" width="45" height="45"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png" alt="php" width="45" height="45"/>
 </p>
-<h2> 🚀 &nbsp;Some Tools I still learning</h2>
+<h2> 🚀 &nbsp;Some Tools I am still learning</h2>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/96139999/194808841-2f0eb1bb-d77b-4dcb-9a7b-0eff508358a9.png" alt="NEXTJS" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/96139999/194808902-d7fbc8c7-f99f-4eeb-9073-6a4227bbd68c.png" alt="REACTJS" width="45" height="45"/>
